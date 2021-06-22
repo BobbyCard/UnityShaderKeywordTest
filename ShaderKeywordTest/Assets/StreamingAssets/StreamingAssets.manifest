@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 274391076
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: blue
+      Dependencies:
+        Dependency_0: shader
+    Info_1:
+      Name: green
+      Dependencies:
+        Dependency_0: shader
+    Info_2:
+      Name: red
+      Dependencies:
+        Dependency_0: shader
+    Info_3:
+      Name: shader
+      Dependencies: {}
